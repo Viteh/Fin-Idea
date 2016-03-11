@@ -1,0 +1,58 @@
+/*********************
+GENERAL
+*********************/
+html{
+  background-color:#EEE;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+}
+body{
+  margin: 0;
+}
+/*********************
+HEADER
+*********************/
+
+header h1{
+  font-family: sans-serif;
+  text-align:center;
+  color: white;
+}
+
+header{
+  float: left;
+  width: 100%;
+  background-color: #A52A2A;
+  margin: 0;
+  padding: 5px 0 0 0;
+}
+/*********************
+NAV
+*********************/
+nav {
+  text-align: center;
+  
+}
+nav li{   
+  display: block;
+}
+nav ul{
+  padding:0;
+  margin: 0;
+  background-color: #CD5C5C;
+  list-style: none;
+  font-weight: bold;
+}
+/*********************
+BOTTOM
+*********************/
+.bottom{
+  text-align: center;
+  clear: both;
+}
+.bottom a{
+  color: black;
+}
